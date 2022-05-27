@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D1A6A4E4283F9EF80094E864 /* ex.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1A6A4E3283F9EF80094E864 /* ex.swift */; };
+		D1A6A4E6283FD0F10094E864 /* Vexing.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1A6A4E5283FD0F10094E864 /* Vexing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +33,7 @@
 		D1A6A4C6283F93860094E864 /* swiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = swiftTests.xctest; path = "/Users/ael-yamo/Desktop/swift/swift/build/Debug-iphoneos/swiftTests.xctest"; sourceTree = "<absolute>"; };
 		D1A6A4D1283F93860094E864 /* swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = swiftUITests.xctest; path = "/Users/ael-yamo/Desktop/swift/swift/build/Debug-iphoneos/swiftUITests.xctest"; sourceTree = "<absolute>"; };
 		D1A6A4E3283F9EF80094E864 /* ex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ex.swift; sourceTree = "<group>"; };
+		D1A6A4E5283FD0F10094E864 /* Vexing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vexing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 		D1A6A4A7283F93830094E864 = {
 			isa = PBXGroup;
 			children = (
+				D1A6A4E5283FD0F10094E864 /* Vexing.swift */,
 				D1A6A4E3283F9EF80094E864 /* ex.swift */,
 			);
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1A6A4E6283FD0F10094E864 /* Vexing.swift in Sources */,
 				D1A6A4E4283F9EF80094E864 /* ex.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
